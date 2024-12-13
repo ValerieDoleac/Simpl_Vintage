@@ -1,0 +1,14 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+.htaccess
+
+# Node
+node_modules/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
